@@ -2,3 +2,4 @@ Ovde cemo da testiramo da li na lepo radi git.
 Jeste malo debilno da radimo u text editoru. Ali poenta je da znamo da radimo nebitno koji je fajl u pitanju.
 radiiii, sad daj boze da svima proradi :D 
  proba 2 
+TEST3
